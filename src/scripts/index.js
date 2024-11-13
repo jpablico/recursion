@@ -14,7 +14,7 @@ const App = () => {
 
   }, []);
 
-  return <h1>Hello, World! Test</h1>;
+  return <h1>Recursion in the console</h1>;
 };
 
 const container = document.getElementById('app');
